@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  height: 100vh;
+  background-image: url("image.jpg");
+  background-size: cover;
+}
+
+h1 {
+  font-size: 6em;
+  color: yellow;
+}
+
+ul {
+  margin: auto;
+  width: 70%;
+  height: 60%;
+  border-radius: 25px;
+  border: 1px solid #5C5A67;
+  background-color: #white;
+  font-size: 2em;
+  overflow-y: scroll;
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  border-radius: 15px;
+  margin: 10px;
+  background-color: #AA8AA9;
+  border: 1px dotted #FFFFFF;
+}
+
+em {
+  font-size: 15px;
+  color: #BBBBBB;
+}
+
+input {
+  margin: 20px auto 0 auto;
+  width: 60%;
+  font-size: 2em;
+  border-color:green;
+}
